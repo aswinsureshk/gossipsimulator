@@ -1,10 +1,10 @@
 ### README #####
 
 How to run : cd project2
-			 mix run lib/MainController.ex numNodes topology algorithm
+			
+mix run lib/MainController.ex numNodes topology algorithm
 Example    : mix run lib/MainController.ex 1000 line gossip
 
-Team Members : Aswin Suresh Krishnan UFID : 1890-1173, Akshay Sehgal UFID : 1416-7988
 
 What is working : The attached code segment will be able with gossip and pushsum algorithms for all the following topologies ->
 
