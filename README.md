@@ -1,4 +1,4 @@
-# Project2
+# Gossip Simulator
 
 The goal of this project is to determinethe convergence of such algorithms through a simulator based on actors writtenin Elixir.  Since actors in Elixir are fully asynchronous, the particular type ofGossip implemented is the so calledAsynchronous Gossip.Gossip  Algorithm  for  information  propagation. The  Gossip  algorithminvolves the following:
 
